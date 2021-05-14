@@ -7,5 +7,5 @@
 <p>So if you change something in input you need to wait 20 seconds to see the changes.</p>
 <p>The refreshrate is setted to every 20 seconds because of steam api request rate limit what is 3 requests per minute.</p>
 <h4>3. How to start program</h4>
-To start program you need to run file "start.bat" and you must have installed nodejs - <a target='_blank' href='https://nodejs.org/en/'>download</a>.
+To start program you need to run file "install.bat" to install node modules, and after that run file "start.bat" and you must have installed nodejs - <a target='_blank' href='https://nodejs.org/en/'>download</a>.
 
